@@ -1,0 +1,7 @@
+-----------------------------------------------------------------------------------
+DateTime: 09.09.2026 22:01:24:615 +02:00; PID: 27540
+This file contains the stderr stream of the Minecraft process logged to a file.
+It does not include stdout or log (log4j) messages to avoid performance impact.
+-----------------------------------------------------------------------------------
+[22:02:09:655] [STDERR]: Sep 09, 2026 10:02:09 PM org.mineskin.ClientBuilder build
+[22:02:09:655] [STDERR]: WARNING: Creating MineSkinClient without API key - Please get an API key from https://account.mineskin.org/keys

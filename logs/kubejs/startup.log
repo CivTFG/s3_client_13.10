@@ -1,0 +1,201 @@
+[22:02:09] [INIT] KubeJS 2001.6.5-build.24; MC 2001 forge
+[22:02:09] [INIT] Loaded plugins:
+[22:02:09] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:02:09] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[22:02:09] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[22:02:09] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:02:09] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[22:02:09] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[22:02:09] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[22:02:09] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:02:09] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:02:09] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:02:09] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[22:02:09] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[22:02:09] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[22:02:09] [INIT] - dev.aika.taczjs.forge.TaCZJSPlugin
+[22:02:09] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[22:02:09] [INIT] - com.rubenverg.moldraw.kubejs.MolDrawKJSPlugin
+[22:02:09] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:02:09] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
+[22:02:09] [INIT] - electrolyte.greate.compat.kubejs.KubeJSGreatePlugin
+[22:02:09] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:02:09] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[22:02:09] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[22:02:09] [INIT] - dev.thomas.diggerhelmet.integration.kubejs.DiggerHelmetKubeJSPlugin
+[22:02:09] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:02:09] [INIT] - com.gtceuterminal.integration.kjs.TerminalKubeJSPlugin
+[22:02:09] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[22:02:09] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[22:02:09] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
+[22:02:09] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[22:02:13] [INIT] KubeJS TFC configuration:
+[22:02:13] [INIT] - Debug mode enabled: false
+[22:02:13] [INIT] - Self tests console insertion enabled: true
+[22:02:13] [INIT] - Self tests warnings deduplicated: true
+[22:02:13] [INFO] Loaded script startup_scripts:main_startup_script.js in 0.061 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/food/constants.food.js in 0.04 s
+[22:02:13] [INFO] Loaded script startup_scripts:ad_astra/modifications.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:ae2/materials.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:ae2/tag_prefixes.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:beneath/modifications.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:civ_tfg/coins.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:create/creative_tab.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:create/materials.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:create/modifications.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:createdeco/constants.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:firmaciv/modifications.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:firmalife/modifications.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:greate/materials.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:greate/material_modification.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:gtceu/machines.js in 0.007 s
+[22:02:13] [INFO] Loaded script startup_scripts:gtceu/modifications.js in 0.003 s
+[22:02:13] [INFO] Loaded script startup_scripts:gtceu/recipe_types.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:gtceu/tag_prefixes.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:macaws_for_tfc/creative_tab.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:minecraft/modifications.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:rnr/creative_tab.js in 0.0 s
+[22:02:13] [INFO] s3_progression_mod/progression_listener.js#15: Loaded Java class 'dev.ftb.mods.ftbchunks.api.FTBChunksAPI'
+[22:02:13] [INFO] s3_progression_mod/progression_listener.js#28: Loaded Java class 'com.civtfg.progression.stage.ProgressionTiers'
+[22:02:13] [INFO] Loaded script startup_scripts:s3_progression_mod/progression_listener.js in 0.013 s
+[22:02:13] [INFO] Loaded script startup_scripts:sacksnsuch/modifications.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:species/modifications.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfc/item_stack_modifiers.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfctextile/creative_tab.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/aquaponics/items.aquaponics.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/aquaponics/materials.aquaponics.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/beneath/blocks.beneath.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/beneath/materials.beneath.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/biotech/items.biotech.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/biotech/materials.bioline.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/blocks.crops.js in 0.003 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/blocks.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/crafting_components.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/dimension_markers.js in 0.002 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/element.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/equipment/items.weapons.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/europa/blocks.europa_deco.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/europa/materials.europa.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/fluids.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/food/fluids.food.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/food/items.food.js in 0.003 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/food/materials.food.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/icon_sets.js in 0.003 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/items.aircraft.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/items.asphalt_road.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/items.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/mars/blocks.mars_deco.js in 0.003 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/mars/blocks.trees.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/mars/materials.mars.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.alumina.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.bakelite.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.boules.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.coils.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.etching.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.garnet_sand.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.gem_slurries.js in 0.002 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.misc_alloys.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.power_rework.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.refrigerants.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.rotors.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.solders.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.tungsten.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/materials.zirconium.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/material_modification.colors.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/material_modification.components.js in 0.0 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/material_modification.flags.js in 0.001 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/material_modification.fluids.js in 0.002 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/material_modification.ores.js in 0.002 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/material_modification.properties.js in 0.002 s
+[22:02:13] [INFO] Loaded script startup_scripts:tfg/materials/material_modification.tfc.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/materials/material_modification.tools.js in 0.005 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/materials.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/material_modification.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/modifications.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/moon/blocks.moon_deco.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/moon/materials.moon.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/nuclear/blocks.nuclear.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/nuclear/items.nuclear.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/nuclear/machine.js in 0.0 s
+[22:02:14] [INFO] tfg/nuclear/materials.nuclear.js#551: Loaded Java class 'fi.dea.mc.deafission.common.data.items.FuelCellItem'
+[22:02:14] [INFO] tfg/nuclear/materials.nuclear.js#552: Loaded Java class 'fi.dea.mc.deafission.common.data.items.DepletedFuelCellItem'
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/nuclear/materials.nuclear.js in 0.018 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/nuclear/materials.smr_additives.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/primitive/blocks.cloth.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/primitive/blocks.glass.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/primitive/blocks.mud_bricks.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/primitive/blocks.supports.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/primitive/blocks.vases.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/primitive/blocks.wood.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/primitive/items.primitive.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/primitive/materials.primitive.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/sounds.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/space_general/items.space.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/space_general/materials.rockets.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/stone_types/blocks.rocks.js in 0.002 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/stone_types/items.rocks.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/stone_types/materials.rocks.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/stone_types/tag_prefixes.rocks.js in 0.002 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/tag_prefixes.js in 0.002 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/venus/blocks.venus_deco.js in 0.003 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/venus/materials.venus.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/worldgen/blocks.earth_deco.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/worldgen/fauna.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/worldgen/items.wood.js in 0.0 s
+[22:02:14] [INFO] tfg/worldgen/register_climates.js#4: Loaded Java class 'net.dries007.tfc.util.calendar.ICalendar'
+[22:02:14] [INFO] tfg/worldgen/register_climates.js#5: Loaded Java class 'net.dries007.tfc.world.chunkdata.LerpFloatLayer'
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/worldgen/register_climates.js in 0.018 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/worldgen/rock_layers.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/worldgen/utility.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/stone_types/constants.rocks.js in 0.026 s
+[22:02:14] [INFO] Loaded script startup_scripts:ad_astra/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:ae2/constants.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:afc/constants.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:arthropocolypse/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:beneath/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:computer_craft/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:crafting_station/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:create_connected/constants.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:domum_ornamentum/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:firmalife/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:framedblocks/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:greate/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:gtceu/constants.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:minecraft/constants.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:railways/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:soulbind/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:tacz/constants.js in 0.002 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfc/constants.js in 0.003 s
+[22:02:14] [INFO] Loaded script startup_scripts:tfg/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded script startup_scripts:vintage_improvements/constants.js in 0.001 s
+[22:02:14] [INFO] Loaded script startup_scripts:wan_ancient_beasts/constants.js in 0.0 s
+[22:02:14] [INFO] Loaded 130/130 KubeJS startup scripts in 1.825 s with 0 errors and 0 warnings
+[22:02:14] [INFO] tfg/blocks.crops.js#20: Loaded Java class 'net.dries007.tfc.common.blockentities.FarmlandBlockEntity'
+[22:02:43] [INFO] greate/materials.js#6: Loaded Java class 'electrolyte.greate.content.gtceu.material.BeltProperty'
+[22:02:43] [INFO] greate/materials.js#7: Loaded Java class 'electrolyte.greate.registry.GreateMaterials'
+[22:02:43] [INFO] greate/materials.js#8: Loaded Java class 'electrolyte.greate.content.gtceu.material.GreatePropertyKeys'
+[22:02:43] [INFO] tfg/materials.js#6: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.BlastProperty'
+[22:02:44] [INFO] tfg/materials/material_modification.tfc.js#6: Loaded Java class 'su.terrafirmagreg.core.common.tfgt.material.property.TFCProperty'
+[22:02:44] [INFO] tfg/materials/material_modification.flags.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.info.MaterialFlags'
+[22:02:44] [INFO] tfg/materials/material_modification.ores.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.OreProperty'
+[22:02:44] [INFO] tfg/materials/material_modification.properties.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.DustProperty'
+[22:02:44] [INFO] tfg/materials/material_modification.properties.js#6: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.IngotProperty'
+[22:02:44] [INFO] tfg/materials/material_modification.properties.js#8: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.ItemPipeProperties'
+[22:02:44] [INFO] tfg/materials/material_modification.properties.js#9: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.FluidPipeProperties'
+[22:02:44] [INFO] tfg/materials/material_modification.properties.js#10: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.HazardProperty'
+[22:02:44] [INFO] tfg/materials/material_modification.properties.js#11: Loaded Java class 'su.terrafirmagreg.core.common.data.tfgt.TFGMedicalConditions'
+[22:02:44] [INFO] tfg/materials/material_modification.tools.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.RotorProperty'
+[22:02:44] [INFO] tfg/materials/material_modification.tools.js#18: Loaded Java class 'com.gregtechceu.gtceu.api.item.tool.GTToolType'
+[22:02:44] [INFO] tfg/materials/material_modification.fluids.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.FluidProperty'
+[22:02:44] [INFO] tfg/materials/material_modification.fluids.js#6: Loaded Java class 'com.gregtechceu.gtceu.api.fluids.store.FluidStorageKeys'
+[22:02:44] [INFO] ae2/tag_prefixes.js#5: Loaded Java class 'appeng.core.definitions.AEBlocks'
+[22:02:44] [INFO] ae2/tag_prefixes.js#6: Loaded Java class 'appeng.core.definitions.AEItems'
+[22:02:44] [INFO] gtceu/tag_prefixes.js#6: Loaded Java class 'net.minecraft.tags.TagKey'
+[22:02:44] [INFO] gtceu/tag_prefixes.js#7: Loaded Java class 'net.minecraftforge.registries.ForgeRegistries'
+[22:02:44] [INFO] gtceu/tag_prefixes.js#8: Loaded Java class 'net.minecraft.resources.ResourceLocation'
+[22:02:45] [INFO] gtceu/recipe_types.js#2: Loaded Java class 'com.gregtechceu.gtceu.api.capability.recipe.IO'
+[22:02:46] [INFO] gtceu/machines.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.machine.multiblock.CoilWorkableElectricMultiblockMachine'
+[22:02:46] [INFO] gtceu/machines.js#6: Loaded Java class 'dev.latvian.mods.kubejs.util.Tags'
+[22:02:46] [INFO] tfg/nuclear/machine.js#5: Loaded Java class 'fi.dea.mc.deafission.core.c2.fr.FrComponents'
+[22:02:46] [INFO] tfg/nuclear/machine.js#6: Loaded Java class 'fi.dea.mc.deafission.core.ReactorBaseStats'
+[22:03:47] [INFO] tfg/worldgen/fauna.js#5: Loaded Java class 'net.minecraft.world.entity.SpawnPlacements'

@@ -1,0 +1,55 @@
+[22:02:14] [INIT] KubeJS 2001.6.5-build.24; MC 2001 forge
+[22:02:14] [INIT] Loaded plugins:
+[22:02:14] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:02:14] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[22:02:14] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[22:02:14] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:02:14] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[22:02:14] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[22:02:14] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[22:02:14] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:02:14] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:02:14] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:02:14] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[22:02:14] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[22:02:14] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[22:02:14] [INIT] - dev.aika.taczjs.forge.TaCZJSPlugin
+[22:02:14] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[22:02:14] [INIT] - com.rubenverg.moldraw.kubejs.MolDrawKJSPlugin
+[22:02:14] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:02:14] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
+[22:02:14] [INIT] - electrolyte.greate.compat.kubejs.KubeJSGreatePlugin
+[22:02:14] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:02:14] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[22:02:14] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[22:02:14] [INIT] - dev.thomas.diggerhelmet.integration.kubejs.DiggerHelmetKubeJSPlugin
+[22:02:14] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:02:14] [INIT] - com.gtceuterminal.integration.kjs.TerminalKubeJSPlugin
+[22:02:14] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[22:02:14] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[22:02:14] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
+[22:02:14] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[22:02:14] [INIT] KubeJS TFC configuration:
+[22:02:14] [INIT] - Debug mode enabled: false
+[22:02:14] [INIT] - Self tests console insertion enabled: true
+[22:02:14] [INIT] - Self tests warnings deduplicated: true
+[22:02:14] [INFO] Loaded script client_scripts:coins.js in 0.002 s
+[22:02:14] [INFO] Loaded script client_scripts:emixx.js in 0.004 s
+[22:02:14] [INFO] Loaded script client_scripts:main_client_script.js in 0.001 s
+[22:02:14] [INFO] Loaded script client_scripts:tooltips.crops.js in 0.01 s
+[22:02:14] [INFO] Loaded script client_scripts:tooltips.js in 0.015 s
+[22:02:14] [INFO] Loaded 5/5 KubeJS client scripts in 0.067 s with 0 errors and 0 warnings
+[22:03:11] [INFO] Client resource reload complete!
+[22:05:58] [INFO] tooltips.crops.js#9: Loaded Java class 'net.dries007.tfc.common.blocks.crop.Crop'
+[22:05:58] [INFO] tooltips.crops.js#10: Loaded Java class 'net.dries007.tfc.common.blocks.plant.fruit.FruitBlocks$SpreadingBush'
+[22:05:58] [INFO] tooltips.crops.js#11: Loaded Java class 'net.dries007.tfc.common.blocks.plant.fruit.FruitBlocks$StationaryBush'
+[22:05:58] [INFO] tooltips.crops.js#12: Loaded Java class 'net.dries007.tfc.common.blocks.plant.fruit.FruitBlocks$Tree'
+[22:05:58] [INFO] tooltips.crops.js#13: Loaded Java class 'net.dries007.tfc.common.blocks.plant.fruit.Lifecycle'
+[22:05:58] [INFO] tooltips.crops.js#14: Loaded Java class 'net.dries007.tfc.util.climate.ClimateRanges'
+[22:05:58] [INFO] tooltips.crops.js#15: Loaded Java class 'net.dries007.tfc.util.calendar.Month'
+[22:05:58] [INFO] tooltips.crops.js#16: Loaded Java class 'net.dries007.tfc.util.calendar.Month$Style'
+[22:05:58] [INFO] tooltips.crops.js#17: Loaded Java class 'com.eerussianguy.firmalife.common.blocks.plant.FLFruitBlocks$Tree'
+[22:05:58] [INFO] tooltips.crops.js#18: Loaded Java class 'com.eerussianguy.firmalife.common.blocks.plant.FLFruitBlocks$StationaryBush'
+[22:05:58] [INFO] tooltips.crops.js#19: Loaded Java class 'com.eerussianguy.firmalife.common.util.FLClimateRanges'
+[22:05:58] [INFO] tooltips.crops.js#20: Loaded Java class 'su.terrafirmagreg.core.common.data.TFGFruitTree$FruitTreeType'
+[22:05:58] [INFO] tooltips.crops.js#21: Loaded Java class 'su.terrafirmagreg.core.common.data.PalmTrees'

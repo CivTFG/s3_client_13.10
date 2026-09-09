@@ -1,0 +1,4 @@
+#26C tfg:earth/highlands
+#564 tfg:earth/ocean
+#4D4 tfg:earth/old_mountains
+#6A1 tfg:earth/rocky_shores
